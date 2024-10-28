@@ -16,8 +16,12 @@
 
     ![](images/staff-panopto-upload3.webp)
 
-5. Select the **folder** you wish to upload to, then **drag and drop** your file to upload. You can also **click to find** and upload a file.
+5. A pop-up box will appear to upload your file. Select the **drop-down arrow**, then in the drop-down list select the **folder** where your recording will be saved. This is usually a paper folder..
 
-    ![](images/staff-panopto-upload4.webp)  
+    ![](images/staff-panopto-upload4.webp)
 
- 6. Finally, wait for the upload to complete.
+6. **Drag and drop** your file into the field provided to upload. You can also select the icon to search your files and upload.
+
+   ![](images/panopto-add-file-field.png)
+
+8. Finally, wait for the upload to complete.
