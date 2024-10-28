@@ -1,7 +1,5 @@
 # Adding a quiz to a Panopto recording
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yAvWM8bF2E4?si=8PsNgdCM1QKXFnLY"></iframe>
-
 To begin, click the edit button that appears when you hover the mouse pointer over a recording, then:
 
 1. Click on the timeline at the point where you want the quiz to appear.
