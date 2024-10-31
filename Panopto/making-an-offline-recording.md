@@ -12,23 +12,24 @@
 
 ![](images/panopto-offline-login.png)
 
-3. Select OK to verify you want to record offline
+3. Select **OK** to verify you want to record offline
 
 ![](images/offline-ok.png)
 
-Your Folder will now be Offline Recording.
+Your **Folder** will now be **Offline Recording**.
 
 ![](images/offline-folder.png)
 
-4. Record your session as normal. When you have finished your recording select Done.
+4. Record your session as normal. When you have finished your recording select **Done**.
 
-![](images/management-offline.png)
+![](images/staff-panopto-offlinerecordingcomplete-windows-n.png)
 
 Your recording is stored on your computer and can be uploaded the next time you sign in. 
 
+![](images/staff-panopto-offlinerecording-stored-windows-w.PNG)
 
 
-# Mac
+## Mac
 1. Open the Panopto Client
 
 2. Do not sign in, select **Record**
