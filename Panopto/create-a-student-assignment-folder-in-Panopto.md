@@ -8,7 +8,7 @@ Accepted file types include: `.wmv`, `.asf`, `.wma`, `.flv`, `.f4v`, `.f4a`, `.m
 
 >[!Note]
 The **Submit a Panopto assingment** online documentation for students only covers the new tools to avoid confusion. Students are advised: “If your lecturer has asked you to upload an assignment using another method, please [contact the e-Tuts](https://www.waikato.ac.nz/students/teaching-and-learning/student/the-etuts-team/) for help.”
->A page outlining this method is available to share with students. Please include this link in your instructions and test the link: [How to upload a Panopto assignment](/CeTTL/eResources/How-to-upload-recordings-to-a-Panopto-assignment)
+>A page outlining this method is available to share with students. Please include this link in your instructions and test the link: [How to upload a Panopto assignment](/CeTTL/eResources/Panopto/how-to-upload-recordings-to-a-Panopto-assignment.md)
 
 ### Instructions for Creating an Assignment Folder:
 
