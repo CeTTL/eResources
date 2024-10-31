@@ -18,6 +18,7 @@ Recordings can be made using phones, cameras, video cameras, or webcams. You can
 3. Click **Sign in** at the top right corner.
  ![](/Panopto/images/staff-panopto-signin-selected-w.jpg)
 4. Sign in with your standard Waikato Microsoft email and password.
+   
  ![](/Panopto/images/students-panopto-microsoftsignin-n.jpg)
 
 ## Upload Options
