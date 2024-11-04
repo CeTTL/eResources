@@ -7,8 +7,13 @@
 2. Select **sign in**.
    
 3. Enter your standard Waikato username and password, then select **Sign in**.
+
+![](Panopto/images/panoptosigninpage.jpg)
+
 4. Your default web browser will open. Select **Open Panopto Recorder** in the window that pops up to begin using the app.
 5. Once you are signed in to the Panopto app, click on the **drop-down arrow** to select the Folder where you want to save your recording.
+
+![](images/Panopto3.png)
 
 !> **Note:** If your desired paper/folder is not available, the folder or your access to the folder may not be correctly set up. You can record to another folder, and move the recording later.
 
