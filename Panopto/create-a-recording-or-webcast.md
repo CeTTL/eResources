@@ -4,9 +4,11 @@
 
 ![](images/Panopto-2.png)
 
-2. Select **sign in**.
+2. Select **Sign in** button.
+
+![](images/panopto-signin-prompt.png)
    
-3. Enter your standard Waikato username and password, then select **Sign in**.
+4. Enter your standard Waikato username and password, then select **Sign in**.
 
 ![](images/panoptosigninpage.jpg)
 
