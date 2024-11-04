@@ -56,7 +56,7 @@ You can add Panopto content to most Moodle activities and topics/weeks/sections 
 
 ![](images/panoptoactivityname_generalsectionsettings_selectpanoptobutton.png)
 
-4. <a name="step6"></a>Click on **Panopto video**.
+4. Click on **Panopto video**.
 
 ![](images/panoptobutton_selectbutton_selectvideo.png)
 
@@ -64,13 +64,14 @@ You can add Panopto content to most Moodle activities and topics/weeks/sections 
 
 ![](images/panoptobutton_panoptovideopopup_allselected.jpg)
 
-6. At the bottom right of the popup window, select **Insert**.
+6. <a name="step6"></a>At the bottom right of the popup window, select **Insert**.
 
 ![](images/panoptobutton_panoptovideopopup_selectinsert.jpg)
 
-?> **Note:** To display the Panopto content on your main Moodle page, tick **Display description on paper page** below the description text box.
-
-![](images/panoptoactivityname_generalsectionsettings_selectdisplaydescriptiononpaaperpage.png)
+> [!NOTE]
+> To display the Panopto content on your main Moodle page, tick **Display description on paper page** below the description text box.
+>
+> ![](images/panoptoactivityname_generalsectionsettings_selectdisplaydescriptiononpaaperpage.png)
 
 7. Scroll down and select **Save and return to paper** or **Save and display**.
 
