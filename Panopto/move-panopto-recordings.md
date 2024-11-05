@@ -1,8 +1,8 @@
 # Move Panopto recordings
 
 > * Follow these steps to move a Zoom session recording from your personal My Folder to the Panopto block of a Moodle paper, or  other recordings from one of your Panopto folders to another.
-> * You can also use the new [Panopto Video resource](Panopto/add-panopto-video-resource-in-moodle.md) or the [Panopto embed button](Panopto/the-panopto-embed-button.md) in Moodle to add a Panopto recording to a section of a Moodle paper, either from your personal folder or from another paper folder.
-> * See also [Copy recordings](Panopto/copy-recordings.md).
+> * You can also use the new [Panopto Video resource](add-panopto-video-resource-in-moodle.md) or the [Panopto embed button](the-panopto-embed-button.md) in Moodle to add a Panopto recording to a section of a Moodle paper, either from your personal folder or from another paper folder.
+> * See also [Copy recordings](copy-recordings.md).
 
 1. Go to the University of Waikato's Panopto server: [https://waikato.au.panopto.com](https://waikato.au.panopto.com)
 
