@@ -8,9 +8,11 @@
 ## Steps to do a Full Copy
 1. <a name="FullCopy"></a>Go to the University of Waikato's Panopto server: [https://waikato.au.panopto.com](https://waikato.au.panopto.com)
 2. **Sign in** using drop-down menu in the top right corner using your standard Waikato email and password details.
-3. Select **Browse** on the left-hand side, then select the desired recording.
-4. **Tick** your **desired recording**, then select the **copy icon** on the popped-up box.
-5. **Chose** the designated folder and select **Copy**.
+   
+   ![](images/Panoptosignin.png)
+4. Select **Browse** on the left-hand side, then select the desired recording.
+5. **Tick** your **desired recording**, then select the **copy icon** on the popped-up box.
+6. **Chose** the designated folder and select **Copy**.
 
 ## Steps to do a Reference Copy
 1. Log in by following [steps 1 and 2](#FullCopy) above.
