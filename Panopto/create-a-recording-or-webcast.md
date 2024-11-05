@@ -1,8 +1,8 @@
 # Create a recording or Webcast
 
 > [!NOTE]
-> * You can also create a Panopto recording via [The Panopto video activity](Panopto/add-panopto-video-resource-in-moodle.md) or the [The Panopto embed button](Panopto/the-panopto-embed-button.md) in Moodle.
-> * See also: [Making an offline recording](Panopto/making-an-offline-recording.md) and [Panopto online](Panopto/record-in-a-browser.md).
+> * You can also create a Panopto recording via [The Panopto video activity](add-panopto-video-resource-in-moodle.md) or the [The Panopto embed button](the-panopto-embed-button.md) in Moodle.
+> * See also: [Making an offline recording](making-an-offline-recording.md) and [Panopto online](record-in-a-browser.md).
 
 1. On your desktop, double-click the **Panopto icon** to open the **Panopto Recorder** app. Alternatively, you can search for the app in your system.
 
@@ -25,7 +25,7 @@
 	![](images/Panopto3.png)
 
 > [!NOTE]
-> If your desired paper/folder is not available, the folder or your access to the folder may not be correctly set up. You can record to another folder, and [Move the recording](Panopto/move-panopto-recordings.md) later.
+> If your desired paper/folder is not available, the folder or your access to the folder may not be correctly set up. You can record to another folder, and [Move the recording](move-panopto-recordings.md) later.
 
 6. **Name** your recording so that it is easy for you and your participants to find.
 
