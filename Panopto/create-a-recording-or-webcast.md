@@ -25,7 +25,7 @@
 	![](images/Panopto3.png)
 
 > [!NOTE]
-> If your desired paper/folder is not available, the folder or your access to the folder may not be correctly set up. You can record to another folder, and move the recording later.
+> If your desired paper/folder is not available, the folder or your access to the folder may not be correctly set up. You can record to another folder, and [Move the recording](Panopto/move-panopto-recordings.md) later.
 
 6. **Name** your recording so that it is easy for you and your participants to find.
 
@@ -38,7 +38,7 @@
 > 
 > ![](images/Panopto4.png)
 
-8. (a) To start recording, select the **Record button** in the top left-hand corner.
+8. (a) To start recording, select the **Record button** at the top left-hand corner.
 
    (b) If you want to broadcast the session to a live audience, select the tick box next to **Webcast** at the top right, then select **Record**.
 
@@ -61,5 +61,5 @@
 	![](images/Panopto8.png)
 
 > [!NOTE]
-> After selecting Upload, the recording will be first uploaded to the Panopto database, then processed before being made available for viewing, editing and sharing. You can log out after the upload is complete (make sure to not log out before), the processing will not be affected. The processing time may take up to a few hours.
+> After selecting **Upload**, the recording will be first uploaded to the Panopto database, then processed before being made available for viewing, editing and sharing. You can log out after the upload is complete (make sure to not log out before), the processing will not be affected. The processing time may take up to a few hours.
 
