@@ -17,6 +17,7 @@
 - [Share an individual Panopto recording](share-an-individual-panopto-recording.md)
 - [Share folders](share-folders.md)
 - [Student assignments](student-assignments.md)
+- [Create a Student Assignment Folder](create-a-student-assignment-folder-in-Panopto.md)
 - [The Panopto embed button](the-panopto-embed-button.md)
 - [Upload a recording](upload-a-recording.md)
 
