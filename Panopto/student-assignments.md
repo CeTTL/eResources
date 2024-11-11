@@ -11,4 +11,4 @@ Please see also:
 
 - The Panopto assignment grading page for differences between Panopto assignment grading and standard Moodle grading. 
 
-- The [Panopto](https://www.waikato.ac.nz/students/teaching-and-learning/student/help-with-technology/panopto/) help page for students. 
+- The [Panopto help page for students](https://www.waikato.ac.nz/students/teaching-and-learning/student/help-with-technology/panopto/). 
