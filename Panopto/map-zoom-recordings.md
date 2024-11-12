@@ -1,10 +1,10 @@
 # Map Zoom recordings to Panopto folder
-
+For staff on how to map their Zoom cloud recordings to a specific folder in Panopto.
 ## Zoom meeting ID
 
 Zoom recordings saved to the cloud will appear in your Meeting Recordings folder inside your personal My Folder in Panopto. You can transfer all the recordings in a recurring Zoom meeting, so long as you record to the cloud, to your paper's Panopto folder by remapping, rather than transferring recordings to the paper folder [manually](move-panopto-recordings.md) after each session. 
 
-1. First, [schedule a Zoom session in Moodle](https://www.waikato.ac.nz/students/eresources/zoom/set-up-zoom-in-moodle/).
+1. First, [**schedule a Zoom session** in Moodle](https://www.waikato.ac.nz/students/eresources/zoom/set-up-zoom-in-moodle/).
 
 2. After you have created and saved the session, go to your main paper page and select the **Zoom meeting name**.
 
@@ -14,7 +14,7 @@ Zoom recordings saved to the cloud will appear in your Meeting Recordings folder
 
 ![](images/zoommeetingnumber.png)
 
-4. You may also find the meeting ID on your University of Waikato Zoom account page, which you can access by selecting the **bottom star** on the left of the staff landing page/[Te Hononga](https://waikatouniversitynz.sharepoint.com/sites/TeHononga/), then the **Zoom icon**.  See  Install and log in to Zoom for more information.
+4. You may also find the meeting ID on your University of Waikato Zoom account page, which you can access by selecting the **bottom star** on the left of the staff landing page/[Te Hononga](https://waikatouniversitynz.sharepoint.com/sites/TeHononga/) (**Note:** Requires staff login), then the **Zoom icon**.  See  Install and log in to Zoom for more information.
 
 ![](images/tehononga.jpeg)
 
@@ -32,9 +32,9 @@ Zoom recordings saved to the cloud will appear in your Meeting Recordings folder
 
 2. If you haven't already, please **Sign in**. Your profile image or initials should then appear at the top right of the Panopto main page. 
 
-![](images/Panoptosignin.png)
+![](images/panopto-sign-in.webp)
 
-3. Select your **image** or **initials**, then select **User Settings** from the drop-down menu. 
+3. Select your **image** or **initials** (1), then select **User Settings** (2) from the drop-down menu. 
 
 ![](images/PanoptoUsersetting.png)
 
@@ -42,6 +42,6 @@ Zoom recordings saved to the cloud will appear in your Meeting Recordings folder
 
 ![](images/addmapping.png)
 
-5. Paste the meeting ID into the **Meeting ID** box on the left, then select the drop-down arrow under **Folder Name** to see your paper folders, or start typing the paper code. Select the paper folder, and finally select **Save** on the right. 
+5. Paste the meeting ID into the **Meeting ID** box on the left (1), then select the drop-down arrow under **Folder Name** (2) to see your paper folders, or start typing the paper code. Select the paper folder, and finally select **Save** on the right (3). 
 
 ![](images/savemapping.png)
