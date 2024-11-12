@@ -1,7 +1,6 @@
 # Share an individual Panopto recording
 
 > - The steps below outline how to share individual recordings from the University of Waikato's <a href="https://waikato.au.panopto.com/Panopto/Pages/Home.aspx" target="_blank">Panopto server</a>. You can follow the same process to [Share folders](share-folders.md).
-
 > - You can also share a Panopto recording from your personal folder or from another paper folder to a Moodle paper via the new [Panopto embed button](the-panopto-embed-button.md) in Moodle or the [Panopto video resource](add-panopto-video-resource-in-moodle.md). Participants in the destination Moodle paper will have viewing permission. You can use the Moodle **Restrict access** and **Group** tools to limit access.
 
 1. Go to [waikato.au.panopto.com](https://waikato.au.panopto.com)
@@ -10,15 +9,15 @@
    
    ![](images/signin-button-panopto-homepage.webp)
 
-3. **Sign in** with your standard University of Waikato username and password.
+3. **Sign in** with your standard University of Waikato email and password.
    
-   ![](images/panopto-waikato-signin.webp)
+   ![](images/students-panopto-microsoftsignin-n.jpg)
 
-4. On the left-hand side menu, select **Browse**, then select **My Folders**, then select the **folder** that contains the recording you want to share.
+4. On the left-hand side menu, select **Browse**, then select **My Folders**. Then select the **folder** that contains the recording you want to share.
 
     ![](images/staff-panopto-browse-myfolder.png)
 
-6. Hover your pointer over the recording you want to share, and click on the **Share** icon.
+6. Hover your pointer over the recording you want to share, and select the **Share** icon.
 
     ![](images/panopto-share-recording.png)
 
@@ -33,9 +32,9 @@
 
      ![](images/staff-panopto-share-folder-add-people-groups-box.webp)
 
-> **Note**: If you are adding a paper group, there may be multiple options for the same paper code and year. Hover your cursor over the group to see the group's full name.
+?> **Note:** If you are adding a paper group, there may be multiple options for the same paper code and year. Hover your cursor over the group to see the group's full name.
 
-> ![](images/staff-panopto-share-folder-paper-groups-name.webp)
+![](images/staff-panopto-share-folder-paper-groups-name.webp)
 
 2. Select the **drop-down arrow** on the box to the right to choose the role options: Creator, Viewer, or Viewer With Link.
 
@@ -45,9 +44,9 @@
 
    ![](images/staff-panopto-share-folder-select-save.webp)
 
-> **Note**: If you wish to send a notification to the participants you have selected, toggle the switch for **Send an email to notify people**, and a Message box will appear below for you to write a notification message. Then, select **Send**.
+?> **Note:** If you wish to send a notification to the participants you have selected, toggle the switch for **Send an email to notify people**, and a Message box will appear below for you to write a notification message. Then, select **Send**.
 
-> ![](images/staff-panopto-share-folder-notify-message.webp)
+![](images/staff-panopto-share-folder-notify-message.webp)
 
 
 ## Who can access video
@@ -65,7 +64,7 @@
 * **Public (unlisted)**: the person trying to access the video does not need a University of Waikato account to access the folder but still needs you to send them the video link to find it.
 * **Public**: anyone looking for this video on the Internet can find and access it.
 
-> **Note**: To share a link of the video recording via email, select **Copy Link**.
+?> **Note:** To share a link of the video recording via email, select **Copy Link**.
 
-> ![](images/staff-panopto-share-individual-recording-copy-link.webp)
+ ![](images/staff-panopto-share-individual-recording-copy-link.webp)
    
