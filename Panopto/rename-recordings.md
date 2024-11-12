@@ -6,9 +6,9 @@
 
    ![](images/panopto-sign-in.webp)
 
-3. **Sign in** with your standard Waikato username and password.
+3. **Sign in** with your standard Waikato email and password.
 
-   ![](images/panopto-signin-page-v2.webp)
+   ![](images/students-panopto-microsoftsignin-n.jpg)
 
 4. Move your mouse over the recording you would like to edit, then select the **Settings** icon.
 
