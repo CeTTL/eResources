@@ -16,7 +16,7 @@
 
 ![](images/RSSSelectSettings.png)
 
-<a name="Step5"></a> 5. In the **Settings** tab, tick the **Enable podcast feed** box. The modification will be saved automatically.
+5. <a name="Step5"></a> In the **Settings** tab, tick the **Enable podcast feed** box. The modification will be saved automatically.
 
 ![](images/RSS2.png)
 
