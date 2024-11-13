@@ -16,13 +16,12 @@ You can add captions after uploading or recording audio or video to Panopto. Thi
 
 4. The automatically generated captions will appear. Check and edit the captions by typing into each text box.
 
-!> **Note:** You can jump to the relevant point in the video by selecting each caption.
-
-![](images/panopto-selectcaption-n.jpg)
-
-!> **Note:** You can also stop the recording playback at a particular point, scroll down to the bottom of the automatic captions and **Enter a caption**. The caption will appear at the selected time.
-
-![](images/panopto-entercaption-n.jpg)
+> **Important:**
+> - You can jump to the relevant point in the video by selecting each caption.
+> ![](images/panopto-selectcaption-n.jpg)
+>
+> - You can also stop the recording playback at a particular point, scroll down to the bottom of the automatic captions and **Enter a caption**. The caption will appear at the selected time.
+> ![](images/panopto-entercaption-n.jpg)
 
 ## Ensuring good sound quality
 
