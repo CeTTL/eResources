@@ -18,8 +18,7 @@
 
 ![](images/staffpanoptomoverecordingselectvideosettingicon.jpg)
 
-> [!NOTE]
-> You can also select **Browse** at the bottom of the left-hand menu to find recordings from other folders.
+?> **Note:** You can also select **Browse** at the bottom of the left-hand menu to find recordings from other folders.
 
 5. In the **Overview** section of Settings tab, select **Edit** to the right of the current folder name.
 
@@ -29,14 +28,13 @@
 
 ![](images/peditfolder.png)
 
-> [!NOTE]
-> If you don't see your folder in the list, start typing the folder or paper name to refine the available selections. If the folder still doesn't appear, check your access rights to that paper.
+?> **Note:** If you don't see your folder in the list, start typing the folder or paper name to refine the available selections. If the folder still doesn't appear, check your access rights to that paper.
 
 7. Finally, select **Save** below the new folder name to move the recording.
 
 ![](images/psavefolder.jpg)
 
-> [!NOTE]
+> **Important:**
 > To check if the recording is available to students in a Moodle paper, go to the Moodle paper's **Panopto block**, which is usually on the right hand side. Your recording should appear under **Completed recordings**.
 > 
 > ![](images/pblock.png)
