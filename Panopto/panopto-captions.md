@@ -2,7 +2,7 @@
 
 You can add captions after uploading or recording audio or video to Panopto. This is also a good option for sessions captured via Zoom.
 
-1. Hover over the recording you want to add captions to and select the **Edit** icon.
+1. Hover the mouse pointer over the recording you want to add captions to and select the **Edit** icon.
 
 ![](images/panopto-editvideo-selected-w.jpg)
 
