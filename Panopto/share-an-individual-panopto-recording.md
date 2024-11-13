@@ -32,9 +32,8 @@
 
      ![](images/staff-panopto-share-folder-add-people-groups-box.webp)
 
-?> **Note:** If you are adding a paper group, there may be multiple options for the same paper code and year. Hover your cursor over the group to see the group's full name.
-
-![](images/staff-panopto-share-folder-paper-groups-name.webp)
+> **Important:** If you are adding a paper group, there may be multiple options for the same paper code and year. Hover your cursor over the group to see the group's full name.
+> ![](images/staff-panopto-share-folder-paper-groups-name.webp)
 
 2. Select the **drop-down arrow** on the box to the right to choose the role options: Creator, Viewer, or Viewer With Link.
 
@@ -44,9 +43,8 @@
 
    ![](images/staff-panopto-share-folder-select-save.webp)
 
-?> **Note:** If you wish to send a notification to the participants you have selected, toggle the switch for **Send an email to notify people**, and a Message box will appear below for you to write a notification message. Then, select **Send**.
-
-![](images/staff-panopto-share-folder-notify-message.webp)
+> **Important:** If you wish to send a notification to the participants you have selected, toggle the switch for **Send an email to notify people**, and a Message box will appear below for you to write a notification message. Then, select **Send**.
+> ![](images/staff-panopto-share-folder-notify-message.webp)
 
 
 ## Who can access video
@@ -64,7 +62,6 @@
 * **Public (unlisted)**: the person trying to access the video does not need a University of Waikato account to access the folder but still needs you to send them the video link to find it.
 * **Public**: anyone looking for this video on the Internet can find and access it.
 
-?> **Note:** To share a link of the video recording via email, select **Copy Link**.
-
- ![](images/staff-panopto-share-individual-recording-copy-link.webp)
+> **Important:** To share a link of the video recording via email, select **Copy Link**.
+> ![](images/staff-panopto-share-individual-recording-copy-link.webp)
    
