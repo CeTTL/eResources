@@ -18,6 +18,7 @@
 - [Share folders](share-folders.md)
 - [Student assignments](student-assignments.md)
 - [Create a Student Assignment Folder](create-a-student-assignment-folder-in-Panopto.md)
+- [How to upload recordings to a Panopto Assignment](how-to-upload-recordings-to-a-Panopto-assignment.md)
 - [The Panopto embed button](the-panopto-embed-button.md)
 - [Upload a recording](upload-a-recording.md)
 
