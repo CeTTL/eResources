@@ -33,7 +33,8 @@
      ![](images/staff-panopto-share-folder-add-people-groups-box.webp)
 
 > **Important:** If you are adding a paper group, there may be multiple options for the same paper code and year. Hover your cursor over the group to see the group's full name.
-> ![](images/staff-panopto-share-folder-paper-groups-name.webp)
+>
+>  ![](images/staff-panopto-share-folder-paper-groups-name.webp)
 > 
 
 2. Select the **drop-down arrow** on the box to the right to choose the role options: Creator, Viewer, or Viewer With Link.
@@ -45,7 +46,8 @@
    ![](images/staff-panopto-share-folder-select-save.webp)
 
 > **Important:** If you wish to send a notification to the participants you have selected, toggle the switch for **Send an email to notify people**, and a Message box will appear below for you to write a notification message. Then, select **Send**.
-> ![](images/staff-panopto-share-folder-notify-message.webp)
+>
+>  ![](images/staff-panopto-share-folder-notify-message.webp)
 > 
 
 
@@ -65,5 +67,6 @@
 * **Public**: anyone looking for this video on the Internet can find and access it.
 
 > **Important:** To share a link of the video recording via email, select **Copy Link**.
+>
 > ![](images/staff-panopto-share-individual-recording-copy-link.webp)
    
