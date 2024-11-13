@@ -2,8 +2,7 @@
 
 Follow these steps if you have been asked to submit a Panopto video (or audio) assignment for one of your Moodle papers via a Panopto student assignment folder.
 
->[!Note]
-> This information only covers an older method used before we could upload directly through Moodle. For details on the new method, please see the **[Submit a Panopto assingment](https://www.waikato.ac.nz/students/teaching-and-learning/student/help-with-technology/panopto/panopto-assignments/)** page. Typically, only one method will be available, so check with your lecturer if you're uncertain.
+!> **Note:** This information only covers an older method used before we could upload directly through Moodle. For details on the new method, please see the **[Submit a Panopto assingment](https://www.waikato.ac.nz/students/teaching-and-learning/student/help-with-technology/panopto/panopto-assignments/)** page. Typically, only one method will be available, so check with your lecturer if you're uncertain.
 
 - If you haven’t downloaded Panopto yet, see the **[Download Panopto](https://www.waikato.ac.nz/students/teaching-and-learning/student/help-with-technology/panopto/download-panopto/)** page.
 - You can also find information on how to record your assignment directly in Panopto.
@@ -41,8 +40,7 @@ There are two options for accessing your paper and uploading your recording.
    
 ![](/Panopto/images/panopto-addfilesto-folder-n.jpg)
 
->[!Note]
->If you only see the paper name, click the arrow next to it to reveal the assignments folder below. Select the assignments folder name.
+?> **Mote:** If you only see the paper name, click the arrow next to it to reveal the assignments folder below. Select the assignments folder name.
 
 4. Drag and drop your video/audio files into this section. Alternatively, click in the file area to browse your computer, select the file(s), then select **Open**.
    
