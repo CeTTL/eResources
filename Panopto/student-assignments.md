@@ -4,8 +4,7 @@ There is a new <a href="https://www.waikato.ac.nz/students/eresources/moodle/ass
 
 ![](images/activitiesandresourcespicker_panoptoassignment.jpg)
 ---
-> [!NOTE]
-> If you prefer to create a student assignment folder via Panopto, using the previous method, see the [Create a student assignment folder in Panopto](create-a-student-assignment-folder-in-Panopto.md). This method is useful if you would like students to share multiple files, or you want them to upload videos for non-assignment purposes.
+?> **Note:**  If you prefer to create a student assignment folder via Panopto, using the previous method, see the [Create a student assignment folder in Panopto](create-a-student-assignment-folder-in-Panopto.md). This method is useful if you would like students to share multiple files, or you want them to upload videos for non-assignment purposes.
 
 Please see also: 
 
