@@ -34,6 +34,7 @@
 
 > **Important:** If you are adding a paper group, there may be multiple options for the same paper code and year. Hover your cursor over the group to see the group's full name.
 > ![](images/staff-panopto-share-folder-paper-groups-name.webp)
+> 
 
 2. Select the **drop-down arrow** on the box to the right to choose the role options: Creator, Viewer, or Viewer With Link.
 
@@ -45,6 +46,7 @@
 
 > **Important:** If you wish to send a notification to the participants you have selected, toggle the switch for **Send an email to notify people**, and a Message box will appear below for you to write a notification message. Then, select **Send**.
 > ![](images/staff-panopto-share-folder-notify-message.webp)
+> 
 
 
 ## Who can access video
