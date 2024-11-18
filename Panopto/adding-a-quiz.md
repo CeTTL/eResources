@@ -8,7 +8,7 @@
    
 2. Select the timeline at the point where you want the quiz to appear [1]. Once you have set the timeline, click on the **Add content (+)** icon [2] and select **Add a quiz** [3].
 
-   ![](images/panopto_quiz.png)
+   ![](images/staff-panopto-adding-a-quiz-numbered.png)
 
 3. When you’ve added your quiz questions, select the **Apply** button to save your changes.
 
@@ -18,4 +18,5 @@
 
    ![](images/staff-panopto-adding-a-quiz-ok-selected.png)
 
-?> **Note:** There are [more detailed instructions](https://support.panopto.com/s/article/How-to-Add-a-Quiz-to-a-Video) on the Panopto support webpage or in our [Elevenses recording](https://coursecast.its.waikato.ac.nz/Panopto/Pages/Viewer.aspx?id=7949810a-4109-4987-b944-abde009665d0).
+> [!NOTE]
+> There are [more detailed instructions](https://support.panopto.com/s/article/How-to-Add-a-Quiz-to-a-Video) on the Panopto support webpage or in our [Elevenses recording](https://coursecast.its.waikato.ac.nz/Panopto/Pages/Viewer.aspx?id=7949810a-4109-4987-b944-abde009665d0).
