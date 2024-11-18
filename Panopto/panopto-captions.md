@@ -27,7 +27,7 @@ You can add captions after uploading or recording audio or video to Panopto. Thi
 
 Good sound recordings are not only better for listeners, but result in much more accurate captioning.
 
-!> **Note:** If possible, for the benefit of students who may prefer to see you speak, record your face on camera.
+!> **Note:** If possible, record your face on camera. This is for the benefit of students who may prefer to see you speak.
 
 ### In lecture theatres and teaching rooms:
 
