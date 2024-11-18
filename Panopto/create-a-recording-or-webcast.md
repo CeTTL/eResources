@@ -1,6 +1,6 @@
 # Create a recording or Webcast
 
-> **Important:**
+> [!NOTE]
 > - You can also create a Panopto recording via [The Panopto video activity](add-panopto-video-resource-in-moodle.md) or the [The Panopto embed button](the-panopto-embed-button.md) in Moodle.
 > - See also: [Making an offline recording](making-an-offline-recording.md) and [Panopto online](record-in-a-browser.md).
 
