@@ -1,7 +1,7 @@
 # Upload a recording
 
 > [!NOTE]
-> These instructions are for uploading recordings which have been recorded in other software. ==
+> These instructions are for uploading recordings which have been recorded in other software.
 
 1. Go to https://waikato.au.panopto.com
 
