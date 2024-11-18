@@ -1,6 +1,6 @@
 # Enabling RSS feed for a paper
 
-> If you enable the RSS feed in Panopto, your paper participants can choose to receive notifications about new recordings. With RSS enabled, participants can connect the paper to their iTunes account, then download and view recordings via iTunes.
+?> If you enable the RSS feed in Panopto, your paper participants can choose to receive notifications about new recordings. With RSS enabled, participants can connect the paper to their iTunes account, then download and view recordings via iTunes.
 
 1. Go to the University of Waikato's Panopto server: [https://waikato.au.panopto.com](https://waikato.au.panopto.com/)
 
