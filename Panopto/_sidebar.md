@@ -2,12 +2,14 @@
 - [Add a quiz to a Panopto recording](adding-a-quiz.md)
 - [Add Panopto Video Resource in Moodle](add-panopto-video-resource-in-moodle.md)
 - <a href="https://support.panopto.com/s/article/merge-and-copy-1" target="_blank">Copy recordings</a>
+- [Create a Student Assignment Folder](create-a-student-assignment-folder-in-Panopto.md)
 - [Create a recording or Webcast](create-a-recording-or-webcast.md)
 - [Delete recordings and folders](delete-recordings-folders.md)
 - [Download and install Panopto](download-and-install-panopto)
 - [Download recordings](download-recordings.md)
 - [Edit Recordings](edit-recordings.md)
 - [Enable RSS feed for a paper](enabling-RSS-feed.md)
+- [How to upload recordings to a Panopto Assignment](how-to-upload-recordings-to-a-Panopto-assignment.md)
 - [Making‌ ‌an‌ ‌offline‌ ‌recording‌](making-an-offline-recording.md)
 - [Map Zoom recordings](map-zoom-recordings.md)
 - [Move Panopto Recordings](move-panopto-recordings.md)
@@ -17,8 +19,6 @@
 - [Share an individual Panopto recording](share-an-individual-panopto-recording.md)
 - [Share folders](share-folders.md)
 - [Student assignments](student-assignments.md)
-- [Create a Student Assignment Folder](create-a-student-assignment-folder-in-Panopto.md)
-- [How to upload recordings to a Panopto Assignment](how-to-upload-recordings-to-a-Panopto-assignment.md)
 - [The Panopto embed button](the-panopto-embed-button.md)
 - [Upload a recording](upload-a-recording.md)
 
