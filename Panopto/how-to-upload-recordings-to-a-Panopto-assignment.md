@@ -40,7 +40,7 @@ There are two options for accessing your paper and uploading your recording.
    
 ![](images/panopto-addfilesto-folder-n.jpg)
 
-?> **Mote:** If you only see the paper name, click the arrow next to it to reveal the assignments folder below. Select the assignments folder name.
+?> **Note:** If you only see the paper name, click the arrow next to it to reveal the assignments folder below. Select the assignments folder name.
 
 4. Drag and drop your video/audio files into this section. Alternatively, click in the file area to browse your computer, select the file(s), then select **Open**.
    
