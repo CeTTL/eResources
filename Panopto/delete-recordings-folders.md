@@ -14,15 +14,17 @@
 
 ![](images/panopto-delete-recording-icon.webp)
    
-?> **Note:** You can also delete recording(s) by selecting the **three dots menu (⋮)** icon at the top right of the recording's preview image. Then, select **Delete**. 
-
-![](images/staff-panopto-delete-recording-select-kebab-icon.webp)
+> [!TIP]
+> You can also delete recording(s) by selecting the **three dots menu (⋮)** icon at the top right of the recording's preview image. Then, select **Delete**. 
+> 
+> ![](images/staff-panopto-delete-recording-select-kebab-icon.webp)
 
 5. Finally, select **Yes**.
 
 ![](images/delete-recording-select-yes-button.webp)  
 
-?> **Note:** You can select several recordings in the same folder and delete them all at once. 
+> [!TIP]
+> You can select several recordings in the same folder and delete them all at once. 
 
 ## Delete a Folder
 1. Follow [steps 1-3](#delete-a-recording) from the previous section.
