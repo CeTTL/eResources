@@ -16,7 +16,7 @@ You can add captions after uploading or recording audio or video to Panopto. Thi
 
 4. The automatically generated captions will appear. Check and edit the captions by typing into each text box.
 
-> **Important:**
+> [!TIP]
 > - You can jump to the relevant point in the video by selecting each caption.
 > ![](images/panopto-selectcaption-n.jpg)
 >
@@ -27,7 +27,8 @@ You can add captions after uploading or recording audio or video to Panopto. Thi
 
 Good sound recordings are not only better for listeners, but result in much more accurate captioning.
 
-!> **Note:** If possible, record your face on camera. This is for the benefit of students who may prefer to see you speak.
+> [!NOTE]
+> If possible, record your face on camera. This is for the benefit of students who may prefer to see you speak.
 
 ### In lecture theatres and teaching rooms:
 
