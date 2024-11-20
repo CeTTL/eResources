@@ -12,8 +12,10 @@ This page explains how to add Panopto content to a central section of your Moodl
 
 You can:
 
-- add a single recording from your Moodle paper or elsewhere, including other Moodle papers that you can access, or
-- add a link to your Moodle paper's Panopto folder.
+- Add a single recording from your Moodle paper or elsewhere, including other Moodle papers that you can access, or
+- Add a link to your Moodle paper's Panopto folder.
+
+---
 
 1. Go to your Moodle paper and toggle on **Edit mode** at the top right of the page.
 
@@ -29,20 +31,22 @@ You can:
 
 4. In the General section, click on **Select content**.
 
-?> **Note:** If you are adding a single video, you can leave the **Name** field blank unless you want to change the name of the video: the name of the selected video in Panopto will automatically display as the activity name.
+> [!NOTE]
+> If you are adding a single video, you can leave the **Name** field blank unless you want to change the name of the video: the name of the selected video in Panopto will automatically display as the activity name.
 
 ![](images/addingnewexternalselectcontent.jpg)
 
 5. In the Select content pop-up window, you can:
-  - **Choose** among the videos in the current paper's folder by selecting the **radio button** to the left of each video, or use the **dropdown menu** and **search box** at the top of the window to select a video from another Panopto folder.
-  - **Upload** video or audio files.
-  - **Record** video or audio.
+    - **Choose** among the videos in the current paper's folder by selecting the **radio button** to the left of each video, or use the **dropdown menu** and **search box** at the top of the window to select a video from another Panopto folder.
+    - **Upload** video or audio files.
+    - **Record** video or audio.
 
-See the [Select content section](#Select-content-options) at the bottom of this page for more information. 
+> [!TIP]
+>See the [Select content section](#Select-content-options) at the bottom of this page for more information. 
 
 ![](images/panoptoactivitiesselectcontentchoose.jpg)
 
-6. After you have selected your content, select **Insert** at the bottom right of the pop-up window
+6. After you have selected your content, select **Insert** at the bottom right of the pop-up window.
 
 ![](images/panoptoactivityafterselectinsert.jpg)
 
@@ -54,14 +58,15 @@ See the [Select content section](#Select-content-options) at the bottom of this 
 
 To add a link to all the videos in your paper's Panopto folder, follow steps 1-3 above, enter an **Activity name** (e.g. Videos), then **scroll down** and select **Save and return to paper** or **Save and display**. Do not click on Select content.
 
-> **Important:**
+> [!WARNING]
 > - You can't currently select several individual videos and insert them into the one Panopto Video resource.
 > - You do not need to update the folder link when you record more videos.
 > - To point students to a sub-folder, link to the main paper folder and advise them to select the **Video resource**, then select the **sub-folder** (subfolder links appear above the individual videos) or search by the sub-folder name at the top left.
 
 ## Restrict access
 
-?> **Note:** As with other Moodle activities and resources, you can restrict access by group, date, activity completion or user profile. See the Restrict access page for more details.
+> [!NOTE]
+>As with other Moodle activities and resources, you can restrict access by group, date, activity completion or user profile. See the Restrict access page for more details.
 
 1. In your Moodle paper, select the **Panopto video** activity.
 2. Select the **Settings** tab.
@@ -80,7 +85,7 @@ In the Select content window, **Choose** should be preselected as the default op
 
 - To add a recording from another Panopto folder, including your personal My Folder or a public folder, in the search box at the top left select the **down arrow**, then select the **folder**, or start typing the folder name to search, then select the **radio button** to the left of the relevant video in the list.
 
-> **Important:**
+> [!ATTENTION]
 > - When you click into the folder search box at the top left, recently accessed folders will appear at the top of the drop-down list.
 > - You can search within paper folders by entering a recording name in the search box at the top right.
 
@@ -108,8 +113,8 @@ If you'd like to use the browser version of Panopto, select **Launch Capture** u
 
 - This will open a new browser tab in which a recording screen will appear. To start your recording, select the red circle at the bottom middle of the screen. To stop recording, select the red square at the bottom middle of the screen.
 
-
-?> **Note:** You can also select **Screen and apps** at the top right to open another browser tab where you can select sharing options. Return to the recording tab to record. 
+> [!NOTE]
+> You can also select **Screen and apps** at the top right to open another browser tab where you can select sharing options. Return to the recording tab to record. 
 
 - After stopping the recording, you can review your recording. You can select buttons on the right to Redo or Edit your recording.
 
@@ -119,7 +124,8 @@ If you'd like to use the browser version of Panopto, select **Launch Capture** u
 
 Select **Launch App** under Panopto for Windows (App) on the right.
 
-?> **Note:** If you do not already have the Panopto App select **Download** below Launch App and follow the prompts.
+> [!NOTE]
+> If you do not already have the Panopto App select **Download** below Launch App and follow the prompts.
 
 - After selecting **Launch App**, a pop-up box may appear (depending on your browser and settings), select **Open** and the Panopto App will open.
 
@@ -129,4 +135,5 @@ Select **Launch App** under Panopto for Windows (App) on the right.
 
 - Your recording should appear on the Moodle tab, in the Select content box. Select the **play arrow** on the recording if you wish to review it, select **Start Over** under the recording to redo, or select the **Insert** button at the bottom right of the Select content box to add to the Panopto activity.
 
-?> **Note:** You don't need to wait until the file has processed to Insert it and Save the Panopto video activity to your Moodle paper. The video will become available when it has finished processing.
+> [!NOTE]
+> You don't need to wait until the file has processed to Insert it and Save the Panopto video activity to your Moodle paper. The video will become available when it has finished processing.
