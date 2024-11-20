@@ -28,13 +28,16 @@
 
 ![](images/peditfolder.png)
 
-?> **Note:** If you don't see your folder in the list, start typing the folder or paper name to refine the available selections. If the folder still doesn't appear, check your access rights to that paper.
+> [!NOTE]
+> If you don't see your folder in the list, start typing the folder or paper name to refine the available selections. If the folder still doesn't appear, check your access rights to that paper.
 
 7. Finally, select **Save** below the new folder name to move the recording.
 
 ![](images/psavefolder.jpg)
 
-> **Important:**
+---
+
+> [!TIP]
 > To check if the recording is available to students in a Moodle paper, go to the Moodle paper's **Panopto block**, which is usually on the right hand side. Your recording should appear under **Completed recordings**.
 > 
 > ![](images/pblock.png)
