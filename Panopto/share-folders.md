@@ -1,6 +1,6 @@
 # Share folders
 
-> **Important:**
+> [!ATTENTION]
 > * If your Moodle paper has a configured Panopto block, paper participants can view the recordings in its Panopto folder. To share your folder with someone who is not a participant in its associated Moodle paper, follow these steps.
 > * To share a whole folder with someone who is not a participant in its associated Moodle paper, follow these steps.
 
@@ -22,7 +22,7 @@
 
 ![](images/panopto-share.png)
 
-> **Note:**
+> [!NOTE]
 > Alternatively, you can select the **Folder** you wish to share, and click on the **Share icon** at the top right of your screen.
 > 
 > ![](images/staff-panopto-share-folder-select-share-icon.webp)
@@ -36,7 +36,7 @@
 
 ![](images/staff-panopto-share-folder-add-people-groups-box.webp)
 
-> **Note:**
+> [!TIP]
 > If you are adding a paper group, there may be multiple options for the same paper code and year. Hover your cursor over the group to see the group's full name.
 > 
 > ![](images/staff-panopto-share-folder-paper-groups-name.webp)
@@ -49,7 +49,7 @@
 
 ![](images/staff-panopto-share-folder-select-save.webp)
 
-> **Note:**
+> [!NOTE]
 > If you wish to send a notification to the participants you have selected, toggle the switch for **Send an email to notify people**, and a **Message** box will appear below for you to write a notification message. Then, select **Send**.
 > 
 > ![](images/staff-panopto-share-folder-notify-message.webp)
