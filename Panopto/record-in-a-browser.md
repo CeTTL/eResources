@@ -2,7 +2,8 @@
 
 This webpage will assist you in recording to Panopto in a web browser. 
 
-?> **Note:** You can also record to Panopto from your Moodle papers using the [Panopto video resource](Panopto/add-panopto-video-resource-in-moodle.md) or the [Panopto embed button](Panopto/the-panopto-embed-button.md).
+> [!NOTE]
+> You can also record to Panopto from your Moodle papers using the [Panopto video resource](Panopto/add-panopto-video-resource-in-moodle.md) or the [Panopto embed button](Panopto/the-panopto-embed-button.md).
 
 1. Go to the University of Waikato's Panopto server:
 https://waikato.au.panopto.com
@@ -26,7 +27,8 @@ https://waikato.au.panopto.com
 
 ![](images/staff-panopto-online-select-record-button.webp)
 
-?> **Note:** You can also record your screen share by selecting the **Screens and Apps** option from the top menu.
+> [!NOTE]
+> You can also record your screen share by selecting the **Screens and Apps** option from the top menu.
 
 6. After you press the red **Stop** button, your recording will be uploaded to the folder you selected.
 
