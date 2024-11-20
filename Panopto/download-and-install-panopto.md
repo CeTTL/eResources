@@ -1,6 +1,7 @@
 # Download and install Panopto
 ## From Software Center (Windows OS)
-!> **Note:** This applies to university-issued devices.
+> [!ATTENTION]
+> This applies to university-issued devices.
 
 1. Go to **Start** and search for **Software Center**
    
@@ -15,7 +16,8 @@
 ![](images/Software-centre-new-UI-1.png)
 
 ## Self Service (Mac OS)
-!> **Note:** This applies to university-issued devices.
+> [!ATTENTION]
+> This applies to university-issued devices.
 
 1. Find **Self Service** on your Mac.
 
@@ -31,7 +33,8 @@
 
 ## From the Panopto website
 
-!> Not all computers have a tool installation application, especially if you are working on your personal computer. If you have admin authorisation to your computer, you can download Panopto from the website.
+> [!ATTENTION]
+> Not all computers have a tool installation application, especially if you are working on your personal computer. If you have admin authorisation to your computer, you can download Panopto from the website.
 
 1. Go to [waikato.au.panopto.com](https://waikato.au.panopto.com)
 2. Log in with standard Waikato **email** and **password**.
@@ -55,6 +58,6 @@
 
 ![](images/Panopto-Set-Up.png)
 
-
-?> **Note:** For immediate assistance on installing Panopto, please contact the Service Desk on 838 4008, or log a request through the online self-service portal, [Kuhukuhu](https://waikato.ivanticloud.com/Modules/SelfService/).
+> [!NOTE]
+> For immediate assistance on installing Panopto, please contact the Service Desk on 838 4008, or log a request through the online self-service portal, [Kuhukuhu](https://waikato.ivanticloud.com/Modules/SelfService/).
 
