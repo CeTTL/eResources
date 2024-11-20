@@ -37,7 +37,7 @@ You can add Panopto content to most Moodle activities and topics/weeks/sections 
 
 ![](images/section_editsettings_savechangesselected.jpg)
 
-> **Important:**
+> [!NOTE]
 > Your video will display in the section summary as in the example below, of a topic called 'Moodle resources'. Students can select the **arrow** on the video to play it from the paper's Moodle page.
 > 
 > ![](images/panoptobuttonexample_sectionsummary.jpg)
@@ -68,7 +68,7 @@ You can add Panopto content to most Moodle activities and topics/weeks/sections 
 
 ![](images/panoptobutton_panoptovideopopup_selectinsert.jpg)
 
-> **Important:**
+> [!ATTENTION]
 > To display the Panopto content on your main Moodle page, tick **Display description on paper page** below the description text box.
 >
 > ![](images/panoptoactivityname_generalsectionsettings_selectdisplaydescriptiononpaaperpage.png)
@@ -77,7 +77,7 @@ You can add Panopto content to most Moodle activities and topics/weeks/sections 
 
 ![](images/saveandreturnsaveanddisplay_activitiesandresources_select.jpg)
 
-> **Note:**
+> [!NOTE]
 > If you tick **Display description on paper page** ([step 6](#step6)) your video will display as in the Quiz example below. Students can select the **arrow** on the video to play it from the paper's Moodle page. If you don't tick this box, students will see the Panopto content after they select the activity name.
 > 
 > ![](images/panoptobutton_activitiesorresources_displaydescriptiononpaperpage_example.jpg)
