@@ -2,8 +2,8 @@
 - [Add a quiz to a Panopto recording](adding-a-quiz.md)
 - [Add Panopto Video Resource in Moodle](add-panopto-video-resource-in-moodle.md)
 - <a href="https://support.panopto.com/s/article/merge-and-copy-1" target="_blank">Copy recordings</a>
-- [Create a Student Assignment Folder](create-a-student-assignment-folder-in-Panopto.md)
 - [Create a recording or Webcast](create-a-recording-or-webcast.md)
+- [Create a Student Assignment Folder](create-a-student-assignment-folder-in-Panopto.md)
 - [Delete recordings and folders](delete-recordings-folders.md)
 - [Download and install Panopto](download-and-install-panopto)
 - [Download recordings](download-recordings.md)
