@@ -1,4 +1,4 @@
 # eResources
 
 ## Panopto
-[Panopto](https://github.com/CeTTL/eResources/tree/main/panopto)
+[Panopto](https://cettl.gitbook.io/cettl-help/)
